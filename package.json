@@ -1,0 +1,29 @@
+{
+  "name": "lesson24gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
+    "babel-core": "^6.26.3",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^7.0.1",
+    "gulp-less": "^4.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-scss": "^1.4.0",
+    "gulp-server-livereload": "^1.9.2"
+  },
+  "dependencies": {
+    "gulp-remove-files": "0.0.3",
+    "gulp-server": "^0.1.0",
+    "gulp-webserver": "^0.9.1"
+  }
+}
